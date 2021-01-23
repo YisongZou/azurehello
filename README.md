@@ -2,8 +2,7 @@
 # AzureHello
 This is a project scaffold for Python
 
-#### A sample Github repo for doing Azure onboarding. You can see a good reference here: https://github.com/noahgift/flask-ml-azure-serverless
-
+#### A sample Github repo for doing Azure onboarding. You can create this repo by following the steps here: https://github.com/noahgift/azure-ml-devops
 1. Create virtualenv
 2. Create scaffolding
 * Makefile
